@@ -23,7 +23,7 @@ the past? Or is our future missing something?
 
 The same is true in commercial software. OS X lives on as the "macOS" 19 years since its introduction.
 Signs are pointing to the long Windows line culminating in Windows 10 (side note, [why wasn't it called
-Windows 9](https://www.reddit.com/r/technology/comments/2hwlrk/new_windows_version_will_be_called_windows_10/ckwq83x/)?).
+Windows 9?](https://www.reddit.com/r/technology/comments/2hwlrk/new_windows_version_will_be_called_windows_10/ckwq83x/)).
 Adobe CC has superseded all those generations of the Creative Suite as the one true release.
 
 Where we once stepped forward through reinvention (MULTICS 🡒 UNIX 🡒 Minix 🡒 Linux, or DOS 🡒 NT),
@@ -75,10 +75,10 @@ the leap and start over, problems start to resolve themselves. Will the software
 More generally, we've all heard
 [horror stories about projects like Oracle SQL](https://news.ycombinator.com/item?id=18442941).
 41 years into its life, it's clearly starting to show signs of age. Maybe it's an extreme example,
-but are other projects really fundamentally better about this? Do Visual Studio and Internet
-Explorer really feel "snappy" (or "intuitive," "modern," etc.)? I feel like every day as a software
-engineer I deal with clumsily designed software that shows its age. It _feels_ like it came from the
-90s.
+but are other projects really fundamentally better about this? Do
+[Visual Studio](https://www.youtube.com/watch?v=GC-0tCy4P1U) and Internet Explorer really feel "snappy"
+(or "intuitive," "modern," etc.)? I feel like every day as a software engineer I deal with clumsily
+designed software that shows its age. It _feels_ like it came from the 90s.
 
 And it's just as apparent that others (even non-technical folks) feel the same way. You can't spend
 time online without seeing people complain about the broken software they interact with. As software
